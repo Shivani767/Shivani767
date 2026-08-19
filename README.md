@@ -3,6 +3,7 @@
 I build **agentic systems** with a real backend: tools, memory, checkpoints, and eval — not chat wrappers. Also inference measurement (ONNX, quantization) when the loop needs a smaller model.
 
 [Resume](./Shivani_Bhandari_Resume.pdf)
+· [Portfolio](https://aether-synapse.vercel.app)
 · [LinkedIn](https://www.linkedin.com/in/shivani-bhandari-bbb69a333/)
 · [Microsoft Learn](https://learn.microsoft.com/en-in/users/shivani-9485/)
 · [LeetCode](https://leetcode.com/u/shivani767/)
@@ -14,14 +15,15 @@ I build **agentic systems** with a real backend: tools, memory, checkpoints, and
   <a href="https://leetcode.com/u/shivani767/"><img src="https://img.shields.io/badge/LeetCode-1708-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/Shivani_103"><img src="https://img.shields.io/badge/Codeforces-Shivani__103-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.kaggle.com/shivanibhandari767"><img src="https://img.shields.io/badge/Kaggle-shivanibhandari767-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://aether-synapse.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Aether_Synapse-7C3AED?style=flat-square" alt="Portfolio" /></a>
   <a href="https://learn.microsoft.com/en-in/users/shivani-9485/"><img src="https://img.shields.io/badge/Microsoft_Learn-shivani--9485-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
 </p>
 
 ## GitHub
 
 <p>
-  <img src="./assets/github-stats.svg" alt="GitHub stats" height="165" />
-  <img src="./assets/top-langs.svg" alt="Top languages" height="165" />
+  <img src="./assets/github-stats.svg" alt="GitHub contributions this year" height="175" />
+  <img src="./assets/top-langs.svg" alt="Open source contributions" height="175" />
 </p>
 
 **Achievements:** [Pull Shark](https://github.com/Shivani767?achievement=pull-shark&tab=achievements) · [YOLO](https://github.com/Shivani767?achievement=yolo&tab=achievements) · [Quickdraw](https://github.com/Shivani767?achievement=quickdraw&tab=achievements)
@@ -50,7 +52,7 @@ Agent runtime + serving path I actually use:
 
 | | |
 |---|---|
-| [IndicQuant](https://github.com/Shivani767/IndicQuant) | Document pipeline + AutoOpt **mer → compile → solve**. Golden-set eval on CPU. [Kaggle](https://www.kaggle.com/code/shivanibhandari767/indicquant-mer-compile-solve-on-cpu) |
+| [Aether Synapse](https://aether-synapse.vercel.app) | Portfolio — ML & generative AI work |
 | [LangGraph](https://github.com/Shivani767/langgraph) | Pregel / DeltaChannel persistence, checkpoint rebuild, HITL |
 | [AutoGen](https://github.com/Shivani767/autogen) | Multi-agent plan → tools → memory |
 | [InferLite](https://github.com/Shivani767/llm-inferlite) | Runtime + quantization bench (TTFT, tok/s, memory) |

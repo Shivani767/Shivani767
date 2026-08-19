@@ -3,7 +3,7 @@
 I build **agentic systems** with a real backend: tools, memory, checkpoints, and eval — not chat wrappers. Also inference measurement (ONNX, quantization) when the loop needs a smaller model.
 
 [Resume](./Shivani_Bhandari_Resume.pdf)
-· [Portfolio](https://aether-synapse.vercel.app)
+· [Portfolio](https://shivani-bhandari-portfolio.vercel.app)
 · [LinkedIn](https://www.linkedin.com/in/shivani-bhandari-bbb69a333/)
 · [Microsoft Learn](https://learn.microsoft.com/en-in/users/shivani-9485/)
 · [LeetCode](https://leetcode.com/u/shivani767/)
@@ -15,7 +15,7 @@ I build **agentic systems** with a real backend: tools, memory, checkpoints, and
   <a href="https://leetcode.com/u/shivani767/"><img src="https://img.shields.io/badge/LeetCode-1708-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://codeforces.com/profile/Shivani_103"><img src="https://img.shields.io/badge/Codeforces-Shivani__103-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://www.kaggle.com/shivanibhandari767"><img src="https://img.shields.io/badge/Kaggle-shivanibhandari767-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://aether-synapse.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Aether_Synapse-7C3AED?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://shivani-bhandari-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Shivani_Bhandari-7C3AED?style=flat-square" alt="Portfolio" /></a>
   <a href="https://learn.microsoft.com/en-in/users/shivani-9485/"><img src="https://img.shields.io/badge/Microsoft_Learn-shivani--9485-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
 </p>
 
@@ -53,7 +53,7 @@ Agent runtime + serving path I actually use:
 
 | | |
 |---|---|
-| [Aether Synapse](https://aether-synapse.vercel.app) | Portfolio — ML & generative AI work |
+| [Shivani Bhandari Portfolio](https://shivani-bhandari-portfolio.vercel.app) | Portfolio — agentic AI, RAG, FastAPI, and inference work |
 | [LangGraph](https://github.com/Shivani767/langgraph) | Pregel / DeltaChannel persistence, checkpoint rebuild, HITL |
 | [AutoGen](https://github.com/Shivani767/autogen) | Multi-agent plan → tools → memory |
 | [InferLite](https://github.com/Shivani767/llm-inferlite) | Runtime + quantization bench (TTFT, tok/s, memory) |

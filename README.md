@@ -53,7 +53,6 @@ Agent runtime + serving path I actually use:
 
 | | |
 |---|---|
-| [Shivani Bhandari Portfolio](https://shivani-bhandari-portfolio.vercel.app) | Portfolio — agentic AI, RAG, FastAPI, and inference work |
 | [LangGraph](https://github.com/Shivani767/langgraph) | Pregel / DeltaChannel persistence, checkpoint rebuild, HITL |
 | [AutoGen](https://github.com/Shivani767/autogen) | Multi-agent plan → tools → memory |
 | [InferLite](https://github.com/Shivani767/llm-inferlite) | Runtime + quantization bench (TTFT, tok/s, memory) |

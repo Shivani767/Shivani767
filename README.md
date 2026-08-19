@@ -21,18 +21,19 @@ I build **agentic systems** with a real backend: tools, memory, checkpoints, and
 
 ## GitHub
 
-<p>
-  <img src="./assets/github-stats.svg" alt="GitHub contributions this year" height="175" />
-  <img src="./assets/top-langs.svg" alt="Open source contributions" height="175" />
-</p>
+This year: **45** contributions · **20** commits · **13** PRs · **1** review.
 
 **Achievements:** [Pull Shark](https://github.com/Shivani767?achievement=pull-shark&tab=achievements) · [YOLO](https://github.com/Shivani767?achievement=yolo&tab=achievements) · [Quickdraw](https://github.com/Shivani767?achievement=quickdraw&tab=achievements)
 
-<p>
-  <a href="https://github.com/Shivani767?achievement=pull-shark&tab=achievements"><img src="./assets/pull-shark.png" alt="Pull Shark" height="64" /></a>
-  <a href="https://github.com/Shivani767?achievement=yolo&tab=achievements"><img src="./assets/yolo.png" alt="YOLO" height="64" /></a>
-  <a href="https://github.com/Shivani767?achievement=quickdraw&tab=achievements"><img src="./assets/quickdraw.png" alt="Quickdraw" height="64" /></a>
-</p>
+## Open source
+
+Upstream repos I contribute to:
+
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
+- [microsoft/autogen](https://github.com/microsoft/autogen)
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+- [future-agi/future-agi](https://github.com/future-agi/future-agi)
 
 ## Stack
 

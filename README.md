@@ -9,7 +9,7 @@ I build **agentic systems** with a real backend: tools, memory, checkpoints, and
 · [LeetCode](https://leetcode.com/u/shivani767/)
 · [Codeforces](https://codeforces.com/profile/Shivani_103)
 · [Kaggle](https://www.kaggle.com/shivanibhandari767)
-· [Email](mailto:Shivani215143@gmail.com)
+· [Email](mailto:shivanbhandari767@gmail.com)
 
 <p>
   <a href="https://leetcode.com/u/shivani767/"><img src="https://img.shields.io/badge/LeetCode-1708-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>

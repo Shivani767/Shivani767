@@ -23,7 +23,7 @@ My work spans **LLM agents, AI infrastructure, inference optimization, evaluatio
 
 ## GitHub
 
-This year: **45 contributions · 20 commits · 13 PRs · 1 review**
+This year: **186 contributions · 20 commits · 13 PRs · 1 review**
 
 **Achievements:** [Pull Shark](https://github.com/Shivani767?achievement=pull-shark&tab=achievements) · [YOLO](https://github.com/Shivani767?achievement=yolo&tab=achievements) · [Quickdraw](https://github.com/Shivani767?achievement=quickdraw&tab=achievements)
 

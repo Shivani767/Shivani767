@@ -122,10 +122,6 @@ I enjoy algorithmic problem solving and systems-oriented programming.
 * AI infrastructure
 * Research engineering
 
-## Education
-
-**B.E. Electronics & Communication Engineering**
-UIET, Panjab University · 2021–2025 · **CGPA: 8.09/10**
 
 [Microsoft Learn](https://learn.microsoft.com/en-in/users/shivani-9485/) · Responsible Generative AI · GSSoC
 
